@@ -15,6 +15,7 @@ public class Factorial {
             throw new IllegalArgumentException("Número " +n+ " no puede ser < que 0");
         }
 		//HOLA QUE TAL
+	    	//MUY BIEN Y TU?
         int fact=1;
         for(int i=2 ;i<=n ; i++)
             fact*=i;
